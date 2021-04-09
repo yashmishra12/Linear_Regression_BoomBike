@@ -1,7 +1,7 @@
 # Linear_Regression_BoomBike
 Creating a Linear Regression model to predict bike sales
 
-# Assignment Problem Statement
+# Problem Statement
 
 A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues. They have contracted a consulting company to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market. The company wants to know:
 
